@@ -3,7 +3,7 @@ VisualMusic
 
 HTML5 music visualization (Chrome only)
 
-Download the files directly or visit the page online [here](http://surunzi.github.io/VisualMusic/).
+Download the files directly or visit the page online [here](http://vooyyla.github.io/vm/).
 
 ##How to use it
 
